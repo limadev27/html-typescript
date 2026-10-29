@@ -1,6 +1,6 @@
 # Atividade: Estruturas em TypeScript
 
-Aluno: Isac Alves de lima silva
+Aluno: Isac Alves
 Disciplina: Programação Web
 
 ## Exercícios
